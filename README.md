@@ -1,5 +1,5 @@
-git clone https://github.com/USERNAME/quiz-special.git
-cd quiz-special index.html
+https://github.com/USERNAME/quiz-special.git
+index.html
 <DOCTYPE html>
 <html lang="id">
 <head>
